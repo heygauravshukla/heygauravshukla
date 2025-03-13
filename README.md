@@ -1,51 +1,63 @@
-# 💫 About Me:
+# Hi there 👋 I'm Gaurav
 
-🔭 I’m currently working on my own portfolio website.
-<br>
-👯 I’m looking to collaborate on fullstack projects.
-<br>
-🌱 I’m currently learning MongoDB and React.
-<br>
-💬 Ask me about CSS and JavaScript.
-<br>
-⚡ Fun fact: I love transforming designs into code.
+### A passionate _Frontend Developer_ based in India
 
-## 🌐 Socials:
+I’m a B.Tech CSE grad (2024) who builds responsive, high-performance web apps with a focus on lighthouse metrics—performance, accessibility, best practices, and SEO. I love turning ideas into clean, user-friendly code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heygauravshukla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heygauravshukla) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heygauravshukla)
+- 🌱 Learning MongoDB to expand into full-stack development
+- 👯 Open to frontend roles and freelance gigs
+- 💬 Ask me about JavaScript, React, or optimizing web performance
 
-# 💻 Tech Stack:
+### Connect with Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[Portfolio](https://heygauravshukla.vercel.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
 
-# 📊 GitHub Stats:
+### GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=yoursgaurav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yoursgaurav&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoursgaurav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoursgaurav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yoursgaurav&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔝 Top Contributed Repo
+### Languages and tools
 
-![](https://github-contributor-stats.vercel.app/api?username=yoursgaurav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<table width="400px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+_"Code is my canvas, and I’m always learning to paint better!"_
