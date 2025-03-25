@@ -12,11 +12,6 @@ I’m a B.Tech CSE grad (2024) who builds responsive, high-performance web apps 
 
 [Portfolio](https://heygauravshukla.vercel.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
 
-### GitHub stats
-
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoursgaurav&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yoursgaurav&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and tools
 
 <table width="400px">
