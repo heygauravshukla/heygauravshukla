@@ -10,7 +10,7 @@ I’m a B.Tech CSE grad (2024) who builds responsive, high-performance web apps 
 
 ### Connect with Me
 
-[Portfolio](https://heygauravshukla.vercel.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
+[Portfolio](https://heygauravshukla.netlify.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
 
 ### Languages and tools
 
