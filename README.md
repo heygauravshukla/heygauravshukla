@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gaurav
 
-### A passionate _Frontend Developer_ based in India
+### A passionate Frontend Developer based in India
 
 I’m a B.Tech CSE grad (2024) who builds responsive, high-performance web apps with a focus on lighthouse metrics—performance, accessibility, best practices, and SEO. I love turning ideas into clean, user-friendly code.
 
@@ -10,7 +10,7 @@ I’m a B.Tech CSE grad (2024) who builds responsive, high-performance web apps 
 
 ### Connect with Me
 
-[Portfolio](https://heygauravshukla.netlify.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
+[Portfolio](https://gshukla.vercel.app) | [X](https://x.com/heygauravshukla) | [LinkedIn](https://linkedin.com/in/heygauravshukla)
 
 ### Languages and tools
 
