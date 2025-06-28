@@ -3,7 +3,7 @@ A passionate Software Engineer from India.
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/heygauravshukla/portfolio)
 - 🌱 I’m currently learning **PHP and MySQL**
-- 👯 I’m looking to collaborate on [URL shortener app](https://github.com/heygauravshukla/shortly-url-shortener)
+- 👯 I’m looking to collaborate on Fullstack projects.
 - 👨‍💻 All of my projects are available on [my portfolio](https://gshukla.vercel.app)
 - 📝 I regularly write articles on [Medium](https://medium.com/@heygauravshukla)
 - 💬 Ask me about **CSS, JavaScript and React**
