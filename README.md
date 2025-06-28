@@ -1,25 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+# Hi 👋, I'm Gaurav
+A passionate Software Engineer from India.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heygauravshukla" alt="heygauravshukla" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/heygauravshukla" target="blank"><img src="https://img.shields.io/twitter/follow/heygauravshukla?logo=twitter&style=for-the-badge" alt="heygauravshukla" /></a> </p>
-
-- 🔭 I’m currently working on [my personal website](https://github.com/heygauravshukla/personal-website-v2)
-
+- 🔭 I’m currently working on [my portfolio](https://github.com/heygauravshukla/portfolio)
 - 🌱 I’m currently learning **PHP and MySQL**
-
 - 👯 I’m looking to collaborate on [URL shortener app](https://github.com/heygauravshukla/shortly-url-shortener)
-
-- 👨‍💻 All of my projects are available at [https://gshukla.vercel.app](https://gshukla.vercel.app)
-
-- 📝 I regularly write articles on [https://dev.to/heygauravshukla](https://dev.to/heygauravshukla)
-
+- 👨‍💻 All of my projects are available on [my portfolio](https://gshukla.vercel.app)
+- 📝 I regularly write articles on [Medium](https://medium.com/@heygauravshukla)
 - 💬 Ask me about **CSS, JavaScript and React**
+- 📫 Business mail: **heygauravshukla@gmail.com**
 
-- 📫 How to reach me **heygauravshukla@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://codepen.io/heygauravshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="heygauravshukla" height="30" width="40" /></a>
 <a href="https://dev.to/heygauravshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heygauravshukla" height="30" width="40" /></a>
@@ -31,7 +21,7 @@
 <a href="https://www.leetcode.com/heygauravshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heygauravshukla" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and tools
 <p align="left">
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
@@ -56,6 +46,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heygauravshukla&show_icons=true&locale=en&layout=compact" alt="heygauravshukla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heygauravshukla&show_icons=true&locale=en" alt="heygauravshukla" /></p>
+## GitHub stats
+![heygauravshukla's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heygauravshukla&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![heygauravshukla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=heygauravshukla&theme=nightowl&hide_border=true)
