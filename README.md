@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**I'm Gaurav** - A full-stack developer, technical writer, and creator.
+**I'm Gaurav** - A software engineer, technical writer, and creator.
 
 Check out my [portfolio](https://gshukla.vercel.app).
 
