@@ -2,7 +2,7 @@
 
 **I'm Gaurav** - A software engineer, technical writer, and creator.
 
-Check out my [portfolio](https://gshukla.vercel.app).
+Check out my [portfolio](https://gshukla.in).
 
 ## Languages and tools
 ![SkillIcons](https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,react,next,tailwind,ts,nodejs,pnpm,php,mysql,git,vscode,figma&perline=8)
